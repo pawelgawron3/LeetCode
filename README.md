@@ -6,8 +6,8 @@ The goal of this repository is to practice algorithms, data structures and probl
 
 ## 📈 Progress
 
-- 🟢 Easy: 5
-- 🟡 Medium: 1
+- 🟢 Easy: 6
+- 🟡 Medium: 2
 - 🔴 Hard: 0
 
 ## 💻 Languages
