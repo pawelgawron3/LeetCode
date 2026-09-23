@@ -6,10 +6,11 @@ The goal of this repository is to practice algorithms, data structures and probl
 
 ## 📈 Progress
 
-- 🟢 Easy: 3
+- 🟢 Easy: 5
 - 🟡 Medium: 1
 - 🔴 Hard: 0
 
 ## 💻 Languages
 
 - JavaScript
+- C#
