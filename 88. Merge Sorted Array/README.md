@@ -42,7 +42,7 @@ Constraints:
 - 1 <= m + n <= 200
 - -10^9 <= nums1[i], nums2[j] <= 10^9
 
-The goal is to come up with an algorithm that runs in `O(m + n)` time.
+The goal is to come up with an algorithm that runs in $O(m + n)$ time.
 
 ---
 
@@ -73,11 +73,11 @@ There is also an important edge case: if there are no valid elements left in `nu
 
 ### Time Complexity
 
-O(m + n)
+$O(m + n)$
 
 ### Space Complexity
 
-O(1)
+$O(1)$
 
 The merge is performed directly inside `nums1`, so no additional array is required.
 

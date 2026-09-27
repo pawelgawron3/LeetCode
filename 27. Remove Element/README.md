@@ -52,11 +52,11 @@ I used a **two-pointer technique** starting from both ends of the array to solve
 
 ### Time Complexity
 
-O(n)
+$O(n)$
 
 ### Space Complexity
 
-O(1)
+$O(1)$
 
 ---
 

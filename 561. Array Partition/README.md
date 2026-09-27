@@ -49,7 +49,7 @@ The sorting function usually takes $O(n log n)$ time. The `for` loop takes a $O(
 
 ### Space Complexity
 
-O(1)
+$O(1)$
 
 ---
 
