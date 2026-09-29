@@ -6,8 +6,8 @@ The goal of this repository is to practice algorithms, data structures and probl
 
 ## 📈 Progress
 
-- 🟢 Easy: 10
-- 🟡 Medium: 3
+- 🟢 Easy: 20
+- 🟡 Medium: 8
 - 🔴 Hard: 0
 
 ## 💻 Languages
@@ -15,3 +15,4 @@ The goal of this repository is to practice algorithms, data structures and probl
 - JavaScript
 - C#
 - Python
+- MySQL
